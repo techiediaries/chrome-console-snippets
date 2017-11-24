@@ -1,0 +1,34 @@
+00:07:44.185 Console severity levels:3  STOCK UPDATE
+00:07:44.185 Console severity levels:4 updated stock:Item1 by quantity: 0: 1
+00:07:44.185 Console severity levels:12 Item's stock is 0
+updateStock @ Console severity levels:12
+(anonymous) @ Console severity levels:25
+00:07:44.185 Console severity levels:3  STOCK UPDATE
+00:07:44.185 Console severity levels:4 updated stock:Item1 by quantity: 10: 1
+00:07:44.185 Console severity levels:9 Item's stock is > 0
+00:07:44.185 Console severity levels:3  STOCK UPDATE
+00:07:44.185 Console severity levels:4 updated stock:Item1 by quantity: -20: 1
+00:07:44.186 Console severity levels:6 Item quantity can not be smaller than 0
+updateStock @ Console severity levels:6
+(anonymous) @ Console severity levels:27
+00:07:44.186 Console severity levels:3  STOCK UPDATE
+00:07:44.186 Console severity levels:4 updated stock:Item2 by quantity: 0: 1
+00:07:44.186 Console severity levels:12 Item's stock is 0
+updateStock @ Console severity levels:12
+(anonymous) @ Console severity levels:28
+00:07:44.186 Console severity levels:3  STOCK UPDATE
+00:07:44.186 Console severity levels:4 updated stock:Item2 by quantity: 0: 2
+00:07:44.186 Console severity levels:12 Item's stock is 0
+updateStock @ Console severity levels:12
+(anonymous) @ Console severity levels:29
+00:07:44.186 Console severity levels:3  STOCK UPDATE
+00:07:44.186 Console severity levels:4 updated stock:Item2 by quantity: 0: 3
+00:07:44.186 Console severity levels:12 Item's stock is 0
+updateStock @ Console severity levels:12
+(anonymous) @ Console severity levels:30
+00:07:44.186 Console severity levels:3  STOCK UPDATE
+00:07:44.186 Console severity levels:4 updated stock:Item2 by quantity: 0: 4
+00:07:44.186 Console severity levels:12 Item's stock is 0
+updateStock @ Console severity levels:12
+(anonymous) @ Console severity levels:31
+00:07:44.322 Console severity levels:1 undefined

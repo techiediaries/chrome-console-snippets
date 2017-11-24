@@ -16,12 +16,6 @@ function W(){
     return 1;
 }
 
-function T(a){
-    if(a === 0) return 1;
-    return T(a) - 1;
-}
 
 X();
 W();
-
-T(10);
